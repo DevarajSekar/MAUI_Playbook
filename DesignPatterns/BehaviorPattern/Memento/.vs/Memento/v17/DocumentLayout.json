@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7822FEE0-4DF1-46D5-BEA4-A5C57A1E8BF4}|Memento\\Memento.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\maui_playbook\\designpatterns\\behaviorpattern\\memento\\memento\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7822FEE0-4DF1-46D5-BEA4-A5C57A1E8BF4}|Memento\\Memento.csproj|solutionrelative:memento\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7822FEE0-4DF1-46D5-BEA4-A5C57A1E8BF4}|Memento\\Memento.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\maui_playbook\\designpatterns\\behaviorpattern\\memento\\memento\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7822FEE0-4DF1-46D5-BEA4-A5C57A1E8BF4}|Memento\\Memento.csproj|solutionrelative:memento\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7822FEE0-4DF1-46D5-BEA4-A5C57A1E8BF4}|Memento\\Memento.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\maui_playbook\\designpatterns\\behaviorpattern\\memento\\memento\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7822FEE0-4DF1-46D5-BEA4-A5C57A1E8BF4}|Memento\\Memento.csproj|solutionrelative:memento\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7822FEE0-4DF1-46D5-BEA4-A5C57A1E8BF4}|Memento\\Memento.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\maui_playbook\\designpatterns\\behaviorpattern\\memento\\memento\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7822FEE0-4DF1-46D5-BEA4-A5C57A1E8BF4}|Memento\\Memento.csproj|solutionrelative:memento\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\Memento\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Memento\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\Memento\\MainPage.xaml",
+              "RelativeToolTip": "Memento\\MainPage.xaml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T02:21:38.583Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\Memento\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Memento\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\Memento\\MainPage.xaml.cs",
+              "RelativeToolTip": "Memento\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T02:21:35.067Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\Memento\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Memento\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\Memento\\AppShell.xaml",
+              "RelativeToolTip": "Memento\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T02:26:13.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\Memento\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Memento\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\MAUI_Playbook\\DesignPatterns\\BehaviorPattern\\Memento\\Memento\\AppShell.xaml.cs",
+              "RelativeToolTip": "Memento\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T02:25:49.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

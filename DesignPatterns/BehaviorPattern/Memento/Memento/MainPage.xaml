@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Memento.MainPage">
+
+    <StackLayout>
+        <Label 
+            Text="Memento Pattern" 
+            Margin="0,20,0,0"
+            HorizontalTextAlignment="Center" 
+            FontSize="26"/>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Text="Undo" Grid.Row="0" Grid.Column="0" Margin="10"/>
+            <Button Text="Redo" Grid.Row="0" Grid.Column="1" Margin="10"/>
+        </Grid>
+
+        <Label 
+            Text="Editor"
+            Margin="10"
+            HorizontalTextAlignment="Start"
+            FontSize="20"/>
+
+        <Entry 
+            HeightRequest="100" 
+            Placeholder="Enter current text"
+            PlaceholderColor="Grey"
+            VerticalTextAlignment="Start"
+            TextColor="Black"
+            BackgroundColor="White" 
+            Margin="10"/>
+
+        <Label 
+      Text="Editor History"
+      Margin="10"
+      HorizontalTextAlignment="Start"
+      FontSize="20"/>
+
+
+        <Editor 
+            HeightRequest="300" 
+            IsEnabled="False"
+            Placeholder="History"
+            PlaceholderColor="Grey"
+            VerticalTextAlignment="Start"
+            TextColor="Black"
+            BackgroundColor="White" 
+            Margin="10"/>
+
+        <Button
+            Text="Clear All"
+            Margin="30"/>
+
+
+    </StackLayout>
+
+
+</ContentPage>
